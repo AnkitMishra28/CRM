@@ -4,7 +4,7 @@ import NewHomePageSections from "../component/NewHomePageSections.jsx";
 import bg from "../assets/bg1.jpg"
 import bg2 from "../assets/bg2.jpg"
 import MiddleSection from "../component/MiddleSection.jsx";
-import LowerMiddle from "../component/lowerMiddle.jsx";
+import LowerMiddle from "../component/LowerMiddle.jsx";
 import { Parallax } from "react-parallax";
 
 const Home = () => {
