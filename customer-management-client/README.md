@@ -48,8 +48,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the Client repository:**
    ```bash
-   git clone https://github.com/Shakaet/Customer-Management-Client
-   git clone https://github.com/Shakaet/Customer-Management-Server
+   git clone https://github.com/AnkitMishra28/CRM/customer-management-client
+   git clone https://github.com/AnkitMishra28/CRM/customer-management-server
    cd Customer-Management-Client
    npm install
    npm run dev
